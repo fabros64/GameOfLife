@@ -1,0 +1,17 @@
+
+
+Do zaimplementowania mamy najprostszy automat komórkowy - grê w ¿ycie 
+(m.in.Wikipedia zna szczegó³y)
+
+Oczekujê aby program
+
+
+1. Umo¿liwia³ wybranie rozmiaru planszy 10x10, 10x15, 15x15 -> plansza 
+tworzona w sposób dynamiczny
+
+2. Istnia³a mo¿liwoœæ ustawienia stanu pocz¹tkowego -> wyklikanie
+
+3. Istnia³a mo¿liwoœæ odczytania\zapisania stanu pocz¹tkowego do pliku
+
+4. Generowanie kolejnego pokolenia -> automatycznie b¹dŸ po naciœniêciu 
+przycisku

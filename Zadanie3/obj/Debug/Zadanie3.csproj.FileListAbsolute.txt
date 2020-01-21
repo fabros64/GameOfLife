@@ -1,0 +1,28 @@
+c:\users\student.wmiak.000.001\documents\visual studio 2015\Projects\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe.config
+c:\users\student.wmiak.000.001\documents\visual studio 2015\Projects\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe
+c:\users\student.wmiak.000.001\documents\visual studio 2015\Projects\Zadanie3\Zadanie3\bin\Debug\Zadanie3.pdb
+c:\users\student.wmiak.000.001\documents\visual studio 2015\Projects\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csprojResolveAssemblyReference.cache
+c:\users\student.wmiak.000.001\documents\visual studio 2015\Projects\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form1.resources
+c:\users\student.wmiak.000.001\documents\visual studio 2015\Projects\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+c:\users\student.wmiak.000.001\documents\visual studio 2015\Projects\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.Cache
+c:\users\student.wmiak.000.001\documents\visual studio 2015\Projects\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe
+c:\users\student.wmiak.000.001\documents\visual studio 2015\Projects\Zadanie3\Zadanie3\obj\Debug\Zadanie3.pdb
+D:\fabros\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe.config
+D:\fabros\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe
+D:\fabros\Zadanie3\Zadanie3\obj\Debug\Zadanie3.pdb
+D:\fabros\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe
+D:\fabros\Zadanie3\Zadanie3\bin\Debug\Zadanie3.pdb
+D:\fabros\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csprojResolveAssemblyReference.cache
+D:\fabros\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form1.resources
+D:\fabros\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+D:\fabros\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.Cache
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe.config
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\bin\Debug\Zadanie3.pdb
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csprojAssemblyReference.cache
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form1.resources
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe
+C:\Users\Michał\Desktop\Zadanie3\Zadanie3\obj\Debug\Zadanie3.pdb
